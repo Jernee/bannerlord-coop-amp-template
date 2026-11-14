@@ -1,4 +1,4 @@
-Meta.DisplayName=Bannerlord Coop Dedicated Server
+Meta.DisplayName=Mount & Blade II: Bannerlord Coop Dedicated Server
 Meta.Description=Mount & Blade II: Bannerlord Coop mod dedicated server, run under Wine on Linux. Installs and updates itself from the Steam Workshop via SteamCMD.
 Meta.OS=Linux
 Meta.AarchSupport=Unknown
